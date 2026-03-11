@@ -1,4 +1,18 @@
-Loja,mean,min,max,count
-Mambo,34.09763157894737,3.59,194.98,456
-St Marche,36.00620567375886,2.99,165.29,282
-www.paodeacucar.com,29.848035714285714,2.99,149.9,336
+Loja,mean,median,min,max,count
+Mambo,34.09763157894737,29.9,3.59,194.98,456
+St Marche,36.00620567375886,31.99,2.99,165.29,282
+www.paodeacucar.com,29.848035714285714,27.965,2.99,149.9,336
+
+--------------------------------------------------------------
+A análise de preços de café entre os supermercados
+indica diferenças claras de posicionamento. O St Marche
+apresenta o maior preço médio (≈R$36) e mediana de R$31,
+sugerindo presença significativa de produtos premium.
+
+O Mambo apresenta preços intermediários enquanto
+o Pão de Açúcar demonstra maior competitividade de
+preço no mercado analisado.
+
+A diferença entre média e mediana nas lojas indica
+a existência de produtos de alto valor que elevam
+o preço médio especialmente no St Marche.

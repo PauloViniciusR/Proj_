@@ -1,9 +1,21 @@
-,Preco
-count,1074.0
-mean,33.26928305400372
-std,19.610475859050634
+Describe,Preco
+count,1074
+mean,33.27
+std,19.61               # Desvio padrão(mede quanto os preços variam em relação à média.)
 min,2.99
-25%,24.919999999999998
-50%,29.9
+25%,24.92               
+50%,29.9                # Mediana(metade do mercado nessa faixa)
 75%,38.49
 max,194.98
+
+----------------------------------------------------------------------------------------
+o preço típico do café está próximo de R$30
+a maior parte do mercado está entre R$25 e R$38
+existem produtos premium que elevam a média
+o mercado apresenta alta variação de preços
+
+----------------------------------------------------------------------------------------
+A análise da distribuição de preços mostra que o mercado de café apresenta 
+concentração na faixa intermediária com preço típico próximo de R$29.90. 
+A presença de produtos premium eleva a média para R$33.27 
+indicando diversidade de posicionamento entre as marcas.
