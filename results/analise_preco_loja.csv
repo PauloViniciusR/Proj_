@@ -16,3 +16,19 @@ preço no mercado analisado.
 A diferença entre média e mediana nas lojas indica
 a existência de produtos de alto valor que elevam
 o preço médio especialmente no St Marche.
+
+
+----------------------------------- OUTLIERS --------------------------
+https://marche.com.br/collections/mercearia/products/cappuccino-lor-baunilha-8-unidades-162-4g?store_id=66677604431
+
+Temos a presença de outliers na distribuição de preços. 
+O menor corresponde a um produto em formato de dose individual, 
+enquanto o maior preçO refere-se a um café premium em grãos. Esses extremos ampliam a dispersão dos dados
+
+https://marche.com.br/collections/mercearia/products/cafe-espresso-graos-cafe-do-ponto-1kg?store_id=66677604431
+
+
+
+* Para melhorar o dataset * 
+
+normalização por peso(ex:  categorizar por G e KG)
