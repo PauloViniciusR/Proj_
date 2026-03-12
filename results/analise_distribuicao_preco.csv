@@ -4,7 +4,7 @@ mean,33.27
 std,19.61               # Desvio padrão(mede quanto os preços variam em relação à média.)
 min,2.99
 25%,24.92               
-50%,29.9                # Mediana(metade do mercado nessa faixa)
+50%,29.90               # Mediana(metade do mercado nessa faixa)
 75%,38.49
 max,194.98
 
@@ -15,7 +15,5 @@ existem produtos premium que elevam a média
 o mercado apresenta alta variação de preços
 
 ----------------------------------------------------------------------------------------
-A análise da distribuição de preços mostra que o mercado de café apresenta 
-concentração na faixa intermediária com preço típico próximo de R$29.90. 
-A presença de produtos premium eleva a média para R$33.27 
-indicando diversidade de posicionamento entre as marcas.
+O mercado de café possui alta dispersão de preços,
+indicando forte segmentação entre produtos econômicos intermediários e premium.
